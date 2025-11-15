@@ -28,4 +28,5 @@ Web
 
 ### The flag
 
-<CTF{C0R3_0V3RH34T_D3T3CT3D}>
+<details>
+CTF{C0R3_0V3RH34T_D3T3CT3D}
