@@ -12,6 +12,7 @@
   - **Packet Protocol** -
 - **Esolangs**
   - **Music Class** -
+  - **Colorful Programs** -
 - **Forensics**
   - **Fallout Fragment** -
   - **Hidden In Plain Site** -
@@ -25,7 +26,8 @@
   - **Dot Dot Boom** -
   - **Operator's Lock** -
   - **To the core** -
-  - **Firebase Fumble** - 
+  - **Firebase Fumble** -
+  - **Hidden Afterparty** -
 - **Pwn**
   - **Ghostly Entry** -
 - **Web**
