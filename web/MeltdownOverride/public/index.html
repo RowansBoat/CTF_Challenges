@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meltdown Override</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="header">
+                <div class="title-section">
+                    <div class="flame-icon" id="flameIcon">🔥</div>
+                    <h1>Meltdown Override</h1>
+                </div>
+                <div class="temp-display">
+                    <div class="temp-label">CORE TEMPERATURE</div>
+                    <div class="temp-value temp-normal" id="tempValue">75°C</div>
+                </div>
+            </div>
+
+            <div class="mission-box">
+                <div class="mission-header">
+                    <div class="alert-icon">⚠️</div>
+                    <div>
+                        <div class="mission-title">EMERGENCY ACCESS REQUIRED</div>
+                        <div class="mission-text">
+                            Nuclear reactor core temperature critical! Access the emergency shutdown system.
+                            The lead engineer username is <code>engineer</code>, 
+                            but the password has been lost in the chaos. Bypass authentication before meltdown!
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <form id="loginForm">
+                <div class="form-group">
+                    <label for="username">USERNAME</label>
+                    <input type="text" id="username" placeholder="Enter username" autocomplete="off">
+                </div>
+
+                <div class="form-group">
+                    <label for="password">PASSWORD</label>
+                    <input type="password" id="password" placeholder="Enter password" autocomplete="off">
+                </div>
+
+                <button type="submit" id="submitBtn">🚨 Emergency Access</button>
+            </form>
+
+            <div class="result-box" id="resultBox">
+                <pre class="result-text" id="resultText"></pre>
+                <div id="userData"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
