@@ -1,4 +1,6 @@
 # CTF Challenges
+This repository contains all CTF challenges I've created that are no longer live. I'll update it consistently with my latest work.
+For challenges I've personally completed, check out my TryHackMe account. Unfortunately, I didn't create this repository early enough to include challenges I completed before becoming an EBoard member for the NEU CTF Club.
 
 ## Categories
 
