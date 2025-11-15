@@ -2,7 +2,7 @@
  * This repository contains all CTF challenges I've created that are no longer live. I'll try to update it consistently with my latest work.
  * For challenges I've personally completed, check out my TryHackMe account. Unfortunately, I didn't create this repository early enough to include challenges I completed before becoming an EBoard member for the NEU CTF Club. https://tryhackme.com/p/RowansBoat
  * There is also a writeup folder detailing how some of these challenges are made.
- * Also toying with the idea of filming my TryHackMe solves> Mainly to just document my thought process and to keep me accountable to atleast do one challenge per day.
+ * Also toying with the idea of filming my TryHackMe solves. Mainly to just document my thought process and to keep me accountable to atleast do one challenge per day.
 
 ## Categories
 
