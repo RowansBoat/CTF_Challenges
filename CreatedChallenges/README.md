@@ -9,6 +9,7 @@
   - **Legacy Login** -
   - **MeltCraft** - 
 - **Esolangs**
+  -
 - **Forensics**
   - **Fallout Fragment** -
   - **Hidden In Plain Site** -
@@ -17,7 +18,10 @@
   - **Dot Dot Boom** -
   - **Operator's Lock** - 
 - **Pwn**
+  -
 - **Reverse**
+  -
 - **Steganography**
+  -
 - **Web**
   - **Meltdown Override** - Simple SQL injection challenge
