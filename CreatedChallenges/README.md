@@ -1,27 +1,14 @@
-OSINT
- - 
+# CTF Challenges
 
-crypto
- - 
+## Categories
 
-esolangs
- - 
-
-forensics
- - 
-
-misc
- - 
-
-pwn
- - 
-
-reverse
- - 
-
-steganography
- - 
-
-web
- - Meltdown Override
-   * Simple sql injection challenge
+- **OSINT**
+- **Crypto**
+- **Esolangs**
+- **Forensics**
+- **Misc**
+- **Pwn**
+- **Reverse**
+- **Steganography**
+- **Web**
+  - **Meltdown Override** - Simple SQL injection challenge
