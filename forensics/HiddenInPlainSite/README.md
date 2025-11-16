@@ -20,8 +20,10 @@ Forensics
 
 Run browser-history-ctf.py to create the simulated browsing history database
 
-### The flag and solution
+### The Flag
 <details>`CTF{Br0ws1ng_H1st0ry_T3lls_All}`</details>
+
+### Solution
 <details>
 1. Open the database probably through sqlite3 browsing_history.db or through an online viewer https://sqliteviewer.app
 2. If done in terminal
