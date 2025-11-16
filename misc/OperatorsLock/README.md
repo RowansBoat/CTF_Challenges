@@ -39,6 +39,3 @@ Pyhton script gesturemaker.py creates the required file and was not given to use
 2. User then uses a gesture pattern decoder to get password such as this https://github.com/jzyra/DecodeAndroidGesture/tree/master
 3. For that link just download the jar then run the following command
 4. java -jar DecodeAndroidGesture.jar gesture.key</details>
-
-### Flag
-<details>`CTF{6304258}`</details>
