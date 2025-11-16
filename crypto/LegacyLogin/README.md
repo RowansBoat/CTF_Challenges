@@ -12,17 +12,9 @@ You've discovered an old backup of a corporate authentication database from a le
 
 Easy
 
-
 ### Kind
 
 Misc
-
-
-### Build instructions
-
-Go to https://www.browserling.com/tools/mysql-password
-Paste Chern0byl into the text box and encrypt
-*FFD3498E20493D8F9D37B4FDD0C12DB9F2BECD46
 
 ### Flag
 <details>`CTF{Chern0byl}`</details>
