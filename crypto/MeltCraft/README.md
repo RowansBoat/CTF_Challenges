@@ -10,7 +10,7 @@ The meltdown corrupted a storage link. Some say the final part was hidden inside
 
 ### Difficulty
 
-Medium (if cippher is known)
+Medium (if cipher is known)
 Hard (if unknown)
 
 ### Flag
