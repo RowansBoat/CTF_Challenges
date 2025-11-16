@@ -12,29 +12,28 @@
 - **Crypto**
   - **Legacy Login** - Challenge based off solved MySql password hashing
   - **MeltCraft** - Based off a recent cipher used in a minecraft arg from the youtuber Wifies
-  - **Packet Protocol** -
+  - **Packet Protocol** - Decrypting PDU
   - **Dot Dot Boom** - Simple challenge where users have to decrypt an image but do not know the method of encryption
 - **Esolangs**
-  - **Music Class** - Back off the rockstar programming language
-  - **Colorful Programs** -
+  - **Music Class** - Based off the rockstar programming language
+  - **Colorful Programs** - Based off the PIET programming language
 - **Forensics**
   - **Hidden In Plain Site** - Simple find the obfuscated data in a file
   - **Lost and now we found** - Very simple finding a string hidden in a file
   - **Whats in the applecore** - Hiding data in the spectrogram of a video
-  - **Eyes Of The Shadows** -
-  - **The Hum** -
-  - **Wake Protocol** -
+  - **Eyes Of The Shadows** - A harder version of my hidden height write up
+  - **The Hum** - While you may think this is an audio problem its actually metadata
+  - **Wake Protocol** - Simple binary decode
 - **Steganography**
   - **Fallout Fragment** - Based off my writeup of doing lsb on a github pfp
   - **Radiant Sorcery** - Hiding a flag through Magic Eye
 - **Misc**
   - **Operator's Lock** - Cracking android gesture password
   - **To the core** - Very easy decode you just have to decode correctly twice
-  - **Firebase Fumble** -
-  - **Hidden Afterparty** -
-  - **Zipped Basket** -
-- **Pwn**
-  - **Ghostly Entry** -
+  - **Firebase Fumble** - Investigating a a firebase with bad rules
+  - **Hidden Afterparty** - Cracking zip folder + OSINT
+  - **Zipped Basket** - Cracking the password to a zip folder
+  - **Ghostly Entry** - Cracking a simple password through clues or brute force
 - **Web**
   - **Meltdown Override** - Simple SQL injection challenge
 
