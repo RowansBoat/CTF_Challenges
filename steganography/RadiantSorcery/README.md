@@ -12,6 +12,9 @@ We managed to recover an image from the meltdown but it looks like it got hit wi
 
 Medium
 
+## Note
+The python script was not given to users and was only used to create the image
+
 ### Flag
 <details>`CTF{M4G1C_3Y3S}`</details>
 
