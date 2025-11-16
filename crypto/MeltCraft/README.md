@@ -13,10 +13,6 @@ The meltdown corrupted a storage link. Some say the final part was hidden inside
 Medium (if cippher is known)
 Hard (if unknown)
 
-### Kind
-
-Misc
-
 ### Flag
 <details>`CTF{corrupted_nether_core}`</details>
 
