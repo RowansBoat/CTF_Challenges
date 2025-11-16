@@ -13,10 +13,6 @@ Flag format : CTF{} and Replace any space with "_"
 ### Difficulty
 Medium
 
-### Kind
-
-Misc.
-
 ### Flag
 <details>CTF{TANTRA_TOKYO}</details>
 
