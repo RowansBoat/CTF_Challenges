@@ -1,0 +1,462 @@
+[SYSLOG] ============================================
+[SYSLOG] DREAMSYNC NEURAL INTERFACE SYSTEM
+[SYSLOG] Version: 3.7.2-build.4891
+[SYSLOG] Manufacturer: NeuroLink Technologies Inc.
+[SYSLOG] License: ENCRYPTED-MILITARY-GRADE
+[SYSLOG] ============================================
+[SYSLOG] timestamp: 2025-10-17T03:42:18.334Z
+[SYSLOG] system uptime: 0 days, 0 hours, 0 minutes
+[SYSLOG] DREAMSYNC v3.7.2: initializing...
+[SYSLOG] checking hardware compatibility...
+[SYSLOG] CPU: Quantum Neural Processor QNP-9000
+[SYSLOG] CPU cores: 64 (all active)
+[SYSLOG] CPU frequency: 8.4GHz
+[SYSLOG] GPU: Neural Graphics Array NGA-7800
+[SYSLOG] RAM: 2048MB allocated
+[SYSLOG] ROM: 512GB available
+[SYSLOG] storage device: NVME SSD 4TB
+[SYSLOG] network adapter: Quantum Mesh Interface v4
+[SYSLOG] hardware check: PASSED
+[SYSLOG] loading BIOS configuration...
+[SYSLOG] BIOS version: 8.22.4455
+[SYSLOG] BIOS configuration loaded successfully
+[SYSLOG] initializing firmware modules...
+[SYSLOG] firmware::neural_bridge.bin loading...
+[SYSLOG] firmware::neural_bridge.bin loaded [OK]
+[SYSLOG] firmware::consciousness_mapper.bin loading...
+[SYSLOG] firmware::consciousness_mapper.bin loaded [OK]
+[SYSLOG] firmware::reality_anchor.bin loading...
+[SYSLOG] firmware::reality_anchor.bin loaded [OK]
+[SYSLOG] memory allocation: 2048MB
+[SYSLOG] memory test: initiated
+[SYSLOG] testing block 0x0000-0x0FFF... OK
+[SYSLOG] testing block 0x1000-0x1FFF... OK
+[SYSLOG] testing block 0x2000-0x2FFF... OK
+[SYSLOG] testing block 0x3000-0x3FFF... OK
+[SYSLOG] memory test: PASSED
+[SYSLOG] loading core modules...
+[SYSLOG] module::consciousness.dll loading...
+[SYSLOG] verifying digital signature...
+[SYSLOG] signature valid: TRUE
+[SYSLOG] module::consciousness.dll loaded
+[SYSLOG] module::perception.sys loading...
+[SYSLOG] verifying digital signature...
+[SYSLOG] signature valid: TRUE
+[SYSLOG] module::perception.sys loaded
+[SYSLOG] module::memory_bridge.dll loading...
+[SYSLOG] verifying digital signature...
+[SYSLOG] signature valid: TRUE
+[SYSLOG] module::memory_bridge.dll loaded
+[SYSLOG] module::temporal_sync.dll loading...
+[SYSLOG] verifying digital signature...
+[SYSLOG] signature valid: TRUE
+[SYSLOG] module::temporal_sync.dll loaded
+[SYSLOG] module::dream_interpreter.sys loading...
+[SYSLOG] verifying digital signature...
+[SYSLOG] signature valid: TRUE
+[SYSLOG] module::dream_interpreter.sys loaded
+[SYSLOG] module::subconscious_parser.dll loading...
+[SYSLOG] verifying digital signature...
+[SYSLOG] signature valid: TRUE
+[SYSLOG] module::subconscious_parser.dll loaded
+[SYSLOG] loading peripheral drivers...
+[SYSLOG] driver::neural_interface.drv v2.8.1 loaded
+[SYSLOG] driver::sensory_input.drv v3.1.9 loaded
+[SYSLOG] driver::motor_output.drv v1.7.4 loaded
+[SYSLOG] driver::emotional_regulator.drv v4.2.0 loaded
+[SYSLOG] all drivers loaded successfully
+[SYSLOG] neural pathway mapping: ACTIVE
+[SYSLOG] scanning neural pathways...
+[SYSLOG] pathway_alpha: DETECTED
+[SYSLOG] pathway_beta: DETECTED
+[SYSLOG] pathway_gamma: DETECTED
+[SYSLOG] pathway_delta: DETECTED
+[SYSLOG] pathway_epsilon: DETECTED
+[SYSLOG] pathway_zeta: DETECTED
+[SYSLOG] pathway_eta: DETECTED
+[SYSLOG] pathway_theta: DETECTED
+[SYSLOG] total pathways detected: 8
+[SYSLOG] mapping complete: 100%
+[SYSLOG] REM cycle detection: ENABLED
+[SYSLOG] sleep stage monitor: ACTIVE
+[SYSLOG] current sleep stage: N1 (light sleep)
+[SYSLOG] brain wave frequency: 6.2Hz
+[SYSLOG] eye movement: MINIMAL
+[SYSLOG] muscle tension: 23%
+[SYSLOG] heart rate: 58 BPM
+[SYSLOG] respiration rate: 14 breaths/min
+[SYSLOG] body temperature: 36.4°C
+[SYSLOG] boot-sequence OK
+[SYSLOG] system status: OPERATIONAL
+[SYSLOG] running diagnostic suite...
+[SYSLOG] diagnostic::memory_integrity running...
+[SYSLOG] diagnostic::memory_integrity PASSED
+[SYSLOG] diagnostic::neural_connectivity running...
+[SYSLOG] diagnostic::neural_connectivity PASSED
+[SYSLOG] diagnostic::temporal_alignment running...
+[SYSLOG] diagnostic::temporal_alignment PASSED
+[SYSLOG] diagnostic::consciousness_coherence running...
+[SYSLOG] diagnostic::consciousness_coherence PASSED
+[SYSLOG] all diagnostics PASSED
+[SYSLOG] initializing quantum entanglement protocol...
+[SYSLOG] QEP version: 5.4.2
+[SYSLOG] searching for entangled pairs...
+[SYSLOG] pair_001: FOUND
+[SYSLOG] pair_002: FOUND
+[SYSLOG] pair_003: FOUND
+[SYSLOG] pair_004: FOUND
+[SYSLOG] total pairs: 4
+[SYSLOG] QEP handshake: initiating...
+[SYSLOG] sending handshake packet...
+[SYSLOG] awaiting response...
+[SYSLOG] response received
+[SYSLOG] verifying quantum signature...
+[SYSLOG] quantum signature: VALID
+[SYSLOG] QEP handshake: SUCCESS
+[SYSLOG] establishing secure tunnel...
+[SYSLOG] tunnel protocol: QKD-AES-512
+[SYSLOG] generating encryption keys...
+[SYSLOG] key_001: generated
+[SYSLOG] key_002: generated
+[SYSLOG] key_003: generated
+[SYSLOG] key_004: generated
+[SYSLOG] exchanging keys via quantum channel...
+[SYSLOG] key exchange: COMPLETE
+[SYSLOG] tunnel established: 256-bit encryption
+[SYSLOG] tunnel stability: 98.7%
+[SYSLOG] tunnel latency: 8ms
+[SYSLOG] performing cache operations...
+[SYSLOG] cache_L1: 512KB - status: OPTIMAL
+[SYSLOG] cache_L2: 2MB - status: OPTIMAL
+[SYSLOG] cache_L3: 16MB - status: OPTIMAL
+[SYSLOG] cache integrity: 99%
+[SYSLOG] cache hit rate: 94.2%
+[SYSLOG] cache miss rate: 5.8%
+[SYSLOG] verifying temporal markers...
+[SYSLOG] temporal sync protocol: TSP-v7
+[SYSLOG] scanning timeline...
+[SYSLOG] marker_001: timestamp=2025-10-17T02:15:43Z
+[SYSLOG] marker_001: VALID
+[SYSLOG] marker_002: timestamp=2025-10-17T02:48:22Z
+[SYSLOG] marker_002: VALID
+[SYSLOG] marker_003: timestamp=2025-10-17T03:21:09Z
+[SYSLOG] marker_003: VALID
+[SYSLOG] marker_004: timestamp=2025-10-17T03:42:18Z
+[SYSLOG] marker_004: VALID
+[SYSLOG] all temporal markers verified
+[SYSLOG] timeline coherence: 99.8%
+[SYSLOG] synchronization buffer: 87% full
+[SYSLOG] buffer capacity: 1024MB
+[SYSLOG] buffer usage: 890.88MB
+[SYSLOG] buffer fragmentation: 3.2%
+[SYSLOG] defragmentation recommended: FALSE
+[SYSLOG] sync_channel=ACTIVE
+[SYSLOG] channel status: STABLE
+[SYSLOG] channel ID: SC-7744-ALPHA
+[SYSLOG] encryption level: MAXIMUM
+[SYSLOG] bandwidth: 2.4Gbps
+[SYSLOG] throughput: 2.31Gbps (96.25%)
+[SYSLOG] latency: 12ms
+[SYSLOG] jitter: 0.8ms
+[SYSLOG] packet loss: 0.02%
+[SYSLOG] error correction: ACTIVE
+[SYSLOG] retransmission rate: 0.1%
+[SYSLOG] quality of service: EXCELLENT
+[SYSLOG] dream_state_monitor: ONLINE
+[SYSLOG] monitoring frequency: 100Hz
+[SYSLOG] current dream intensity: 34%
+[SYSLOG] dream coherence: 78%
+[SYSLOG] lucidity level: 12%
+[SYSLOG] emotional valence: NEUTRAL
+[SYSLOG] narrative structure: FRAGMENTED
+[SYSLOG] subconscious_bridge: CONNECTED
+[SYSLOG] bridge integrity: 96.4%
+[SYSLOG] subconscious access level: DEEP
+[SYSLOG] archetypal patterns detected: 7
+[SYSLOG] symbolic density: MODERATE
+[SYSLOG] repressed memory indicator: LOW
+[SYSLOG] reality_anchor: STABLE
+[SYSLOG] anchor strength: 87%
+[SYSLOG] reality divergence: 4.3%
+[SYSLOG] physical body connection: MAINTAINED
+[SYSLOG] spatial orientation: PRESERVED
+[SYSLOG] identity coherence: HIGH
+[SYSLOG] initiating advanced protocols...
+[SYSLOG] protocol::consciousness_transfer starting...
+[SYSLOG] protocol::memory_consolidation starting...
+[SYSLOG] protocol::dream_recording starting...
+[SYSLOG] protocol::neural_optimization starting...
+[SYSLOG] all protocols initiated successfully
+[SYSLOG] parsing embedded sequences...
+[SYSLOG] sequence_parser: v2.8.4
+[SYSLOG] sequence_parser: loading grammar rules...
+[SYSLOG] grammar rules loaded: 2,847 rules
+[SYSLOG] sequence_parser: initializing decoder...
+[SYSLOG] decoder: READY
+[SYSLOG] scanning for embedded sequences...
+[SYSLOG] sequence type: BINARY
+[SYSLOG] sequence encoding: UTF-8
+[SYSLOG] sequence location: 0x4A7F9C
+[SYSLOG] wake.up.sequence.1="01000011 01010100 01000110 01111011"
+[SYSLOG] sequence length: 112 bits
+[SYSLOG] sequence checksum: 0xA4F2
+[SYSLOG] verifying sequence checksum...
+[SYSLOG] checksum verification: PASSED
+[SYSLOG] sequence validation: PASSED
+[SYSLOG] sequence priority: CRITICAL
+[SYSLOG] sequence classification: WAKE_TRIGGER
+[SYSLOG] wake.up.sequence.2="01100001 01110111 01100001 01101011 00110011 01101110 00110001 01101110 01100111 01111101"
+[SYSLOG] analyzing sequence properties...
+[SYSLOG] entropy level: HIGH
+[SYSLOG] redundancy: LOW
+[SYSLOG] compression ratio: 1.2:1
+[SYSLOG] decryption key generated
+[SYSLOG] key length: 256 bits
+[SYSLOG] key entropy: 7.96 bits/byte
+[SYSLOG] key stored in secure enclave
+[SYSLOG] consciousness transfer: 12% complete
+[SYSLOG] transferring memory blocks...
+[SYSLOG] block_0001: transferred
+[SYSLOG] block_0002: transferred
+[SYSLOG] block_0003: transferred
+[SYSLOG] consciousness transfer: 23% complete
+[SYSLOG] emotional state mapping: IN PROGRESS
+[SYSLOG] sensory data buffering: IN PROGRESS
+[SYSLOG] consciousness transfer: 34% complete
+[SYSLOG] proprioceptive data sync: IN PROGRESS
+[SYSLOG] consciousness transfer: 45% complete
+[SYSLOG] neural sync rate: 94.3Hz
+[SYSLOG] target sync rate: 95.0Hz
+[SYSLOG] sync drift: -0.7Hz
+[SYSLOG] applying correction...
+[SYSLOG] correction applied: +0.7Hz
+[SYSLOG] neural sync rate: 95.0Hz
+[SYSLOG] sync locked: TRUE
+[SYSLOG] theta wave alignment: OPTIMAL
+[SYSLOG] theta frequency: 6.8Hz
+[SYSLOG] theta amplitude: 42μV
+[SYSLOG] theta coherence: 0.89
+[SYSLOG] alpha wave status: SUPPRESSED
+[SYSLOG] beta wave status: MINIMAL
+[SYSLOG] delta wave status: PRESENT
+[SYSLOG] gamma wave status: SPORADIC
+[SYSLOG] consciousness transfer: 56% complete
+[SYSLOG] memory consolidation in progress...
+[SYSLOG] consolidation phase: STAGE_2
+[SYSLOG] short-term to long-term conversion: ACTIVE
+[SYSLOG] hippocampal replay: DETECTED
+[SYSLOG] synaptic strengthening: IN PROGRESS
+[SYSLOG] memory pruning: ACTIVE
+[SYSLOG] emotional tagging: IN PROGRESS
+[SYSLOG] processing dream fragments...
+[SYSLOG] fragment scanner: ACTIVE
+[SYSLOG] scanning dream buffer...
+[SYSLOG] fragment_001: location=0x2A4C90
+[SYSLOG] fragment_001: size=2.4KB
+[SYSLOG] fragment_001: type=VISUAL
+[SYSLOG] fragment_001: emotional_weight=0.64
+[SYSLOG] fragment_001: catalogued
+[SYSLOG] fragment_002: location=0x2A5110
+[SYSLOG] fragment_002: size=1.8KB
+[SYSLOG] fragment_002: type=AUDITORY
+[SYSLOG] fragment_002: emotional_weight=0.38
+[SYSLOG] fragment_002: catalogued
+[SYSLOG] fragment_003: location=0x2A5820
+[SYSLOG] fragment_003: size=3.1KB
+[SYSLOG] fragment_003: type=MIXED
+[SYSLOG] fragment_003: ERROR - data corruption detected
+[SYSLOG] fragment_003: checksum mismatch
+[SYSLOG] fragment_003: expected=0x7FA2, actual=0x3D91
+[SYSLOG] fragment_003: corrupted - attempting recovery
+[SYSLOG] recovery protocol: INITIATED
+[SYSLOG] scanning for redundant data...
+[SYSLOG] redundant data: NOT FOUND
+[SYSLOG] attempting error correction codes...
+[SYSLOG] ECC: INSUFFICIENT DATA
+[SYSLOG] attempting pattern reconstruction...
+[SYSLOG] pattern match: 34% (THRESHOLD: 75%)
+[SYSLOG] fragment_003: recovery FAILED
+[SYSLOG] fragment_003: marked as LOST
+[SYSLOG] fragment_004: location=0x2A6F40
+[SYSLOG] fragment_004: size=1.2KB
+[SYSLOG] fragment_004: type=KINESTHETIC
+[SYSLOG] fragment_004: emotional_weight=0.51
+[SYSLOG] fragment_004: catalogued
+[SYSLOG] fragment_005: location=0x2A7480
+[SYSLOG] fragment_005: size=2.9KB
+[SYSLOG] fragment_005: type=VISUAL
+[SYSLOG] fragment_005: emotional_weight=0.73
+[SYSLOG] fragment_005: catalogued
+[SYSLOG] total fragments: 5
+[SYSLOG] catalogued: 4
+[SYSLOG] corrupted: 1
+[SYSLOG] consciousness transfer: 67% complete
+[SYSLOG] monitoring system vitals...
+[SYSLOG] sleep stage: N2 (deeper sleep)
+[SYSLOG] brain wave frequency: 5.1Hz
+[SYSLOG] eye movement: NONE
+[SYSLOG] muscle tension: 8%
+[SYSLOG] heart rate: 54 BPM
+[SYSLOG] respiration rate: 12 breaths/min
+[SYSLOG] body temperature: 36.2°C
+[SYSLOG] all vitals: NORMAL
+[SYSLOG] WARNING: temporal discontinuity detected
+[SYSLOG] discontinuity type: MINOR_PHASE_SHIFT
+[SYSLOG] discontinuity magnitude: 0.07 seconds
+[SYSLOG] discontinuity location: timeline_marker_003
+[SYSLOG] analyzing causality...
+[SYSLOG] causality chain: INTACT
+[SYSLOG] paradox risk: NONE
+[SYSLOG] attempting auto-correction...
+[SYSLOG] correction algorithm: TEMPORAL_SMOOTH_v3
+[SYSLOG] calculating correction vector...
+[SYSLOG] vector magnitude: 0.07s
+[SYSLOG] vector direction: BACKWARDS
+[SYSLOG] applying correction...
+[SYSLOG] ERROR: timeline locked
+[SYSLOG] correction cannot be applied during active sync
+[SYSLOG] auto-correction: FAILED
+[SYSLOG] discontinuity status: PERSISTENT
+[SYSLOG] impact assessment: MINIMAL
+[SYSLOG] consciousness transfer: 74% complete
+[SYSLOG] signal quality monitoring...
+[SYSLOG] signal strength: 87dB
+[SYSLOG] signal degradation: 15%
+[SYSLOG] degradation rate: 0.3%/min
+[SYSLOG] analyzing degradation source...
+[SYSLOG] source analysis: IN PROGRESS
+[SYSLOG] attempting to boost signal...
+[SYSLOG] amplifier: ENGAGED
+[SYSLOG] gain: +6dB
+[SYSLOG] signal strength: 93dB
+[SYSLOG] signal degradation: 11%
+[SYSLOG] boost: SUCCESSFUL
+[SYSLOG] consciousness transfer: 78% complete
+[SYSLOG] performing routine maintenance...
+[SYSLOG] garbage collection: INITIATED
+[SYSLOG] freed memory: 127MB
+[SYSLOG] garbage collection: COMPLETE
+[SYSLOG] log rotation: INITIATED
+[SYSLOG] archived old logs: 3 files
+[SYSLOG] log rotation: COMPLETE
+[SYSLOG] ERROR: external interference detected
+[SYSLOG] interference type: ELECTROMAGNETIC
+[SYSLOG] interference frequency: 2.4GHz
+[SYSLOG] interference source: UNKNOWN
+[SYSLOG] interference strength: MODERATE
+[SYSLOG] triangulating source...
+[SYSLOG] source direction: NORTHEAST
+[SYSLOG] source distance: ~15 meters
+[SYSLOG] source identification: FAILED
+[SYSLOG] activating countermeasures...
+[SYSLOG] firewall: ENGAGED
+[SYSLOG] firewall mode: AGGRESSIVE
+[SYSLOG] filtering interference frequencies...
+[SYSLOG] adaptive filter: ACTIVE
+[SYSLOG] interference reduction: 40%
+[SYSLOG] consciousness transfer: 82% complete
+[SYSLOG] signal degradation: 28%
+[SYSLOG] degradation rate: 1.2%/min (INCREASING)
+[SYSLOG] WARNING: degradation rate exceeds threshold
+[SYSLOG] threshold: 1.0%/min
+[SYSLOG] current: 1.2%/min
+[SYSLOG] investigating cause...
+[SYSLOG] interference strength: HIGH
+[SYSLOG] neural pathway congestion: DETECTED
+[SYSLOG] attempting path rerouting...
+[SYSLOG] rerouting: IN PROGRESS
+[SYSLOG] WARNING: critical system anomaly
+[SYSLOG] anomaly type: CASCADING_FAILURE
+[SYSLOG] anomaly severity: HIGH
+[SYSLOG] affected systems: 3
+[SYSLOG] system_001: neural_sync - STATUS: DEGRADED
+[SYSLOG] system_002: memory_consolidation - STATUS: UNSTABLE
+[SYSLOG] system_003: consciousness_transfer - STATUS: AT_RISK
+[SYSLOG] attempting emergency protocols...
+[SYSLOG] emergency protocol: INITIATED
+[SYSLOG] protocol: SYSTEM_STABILIZATION_ALPHA
+[SYSLOG] reallocating resources...
+[SYSLOG] priority systems: PROTECTED
+[SYSLOG] non-critical systems: SUSPENDED
+[SYSLOG] stabilization: IN PROGRESS
+[SYSLOG] signal degradation: 45%
+[SYSLOG] degradation rate: 2.7%/min (CRITICAL)
+[SYSLOG] connection unstable
+[SYSLOG] connection quality: POOR
+[SYSLOG] packet loss: 8.4%
+[SYSLOG] latency: 89ms (ELEVATED)
+[SYSLOG] jitter: 34ms (HIGH)
+[SYSLOG] attempting reconnection...
+[SYSLOG] reconnection protocol: FAST_REESTABLISH
+[SYSLOG] sending keepalive packets...
+[SYSLOG] keepalive_001: SENT
+[SYSLOG] keepalive_002: SENT
+[SYSLOG] keepalive_003: SENT
+[SYSLOG] awaiting acknowledgment...
+[SYSLOG] timeout: 5 seconds
+[SYSLOG] acknowledgment: NOT RECEIVED
+[SYSLOG] reconnection FAILED
+[SYSLOG] attempting alternate protocol...
+[SYSLOG] alternate protocol: SLOW_REESTABLISH
+[SYSLOG] scanning for available channels...
+[SYSLOG] available channels: NONE
+[SYSLOG] signal degradation: 58%
+[SYSLOG] consciousness transfer: 85% complete
+[SYSLOG] WARNING: transfer may not complete
+[SYSLOG] calculating failure probability...
+[SYSLOG] failure probability: 73%
+[SYSLOG] signal degradation: 73%
+[SYSLOG] degradation rate: 4.8%/min (EXTREME)
+[SYSLOG] all systems: CRITICAL
+[SYSLOG] neural_sync: FAILED
+[SYSLOG] memory_consolidation: HALTED
+[SYSLOG] dream_state_monitor: OFFLINE
+[SYSLOG] subconscious_bridge: DISCONNECTED
+[SYSLOG] reality_anchor: WEAKENING
+[SYSLOG] ERROR: cascade failure imminent
+[SYSLOG] cascade probability: 96%
+[SYSLOG] estimated time to total failure: 47 seconds
+[SYSLOG] emergency shutdown initiated
+[SYSLOG] shutdown protocol: EMERGENCY_STOP_OMEGA
+[SYSLOG] attempting graceful termination...
+[SYSLOG] saving critical data...
+[SYSLOG] data_001: SAVED
+[SYSLOG] data_002: SAVE FAILED
+[SYSLOG] data_003: SAVED
+[SYSLOG] data_004: SAVE FAILED
+[SYSLOG] consciousness transfer: 89% complete
+[SYSLOG] WARNING: incomplete transfer
+[SYSLOG] transfer completion: 89%
+[SYSLOG] required completion: 100%
+[SYSLOG] data loss risk: HIGH
+[SYSLOG] signal degradation: 91%
+[SYSLOG] signal strength: 12dB (CRITICAL)
+[SYSLOG] connection quality: CRITICAL
+[SYSLOG] final status report...
+[SYSLOG] uptime: 0 days, 0 hours, 5 minutes, 34 seconds
+[SYSLOG] total operations: 2,847
+[SYSLOG] successful operations: 2,531 (88.9%)
+[SYSLOG] failed operations: 316 (11.1%)
+[SYSLOG] data integrity: COMPROMISED
+[SYSLOG] system health: CRITICAL
+[SYSLOG] connection lost.
+[SYSLOG] timestamp: 2025-10-17T03:47:52.891Z
+[SYSLOG] final signal strength: 3dB
+[SYSLOG] final degradation: 97%
+[SYSLOG] session duration: 5 minutes, 34 seconds
+[SYSLOG] session terminated
+[SYSLOG] termination reason: SIGNAL_LOSS
+[SYSLOG] termination type: ABNORMAL
+[SYSLOG] cleanup procedures: INCOMPLETE
+[SYSLOG] cleanup status: 34% complete
+[SYSLOG] orphaned processes: 7
+[SYSLOG] memory leak detected: 89MB
+[SYSLOG] temporary files: NOT REMOVED
+[SYSLOG] log file saved: /var/log/dreamsync/session_20251017_034218.log
+[SYSLOG] core dump generated: /var/crash/dreamsync_034752.dmp
+[SYSLOG] system state: UNSAFE
+[SYSLOG] restart required: TRUE
+[SYSLOG] ============================================
+[SYSLOG] END OF LOG
+
+[SYSLOG] ============================================
