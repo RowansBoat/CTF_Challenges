@@ -1,9 +1,9 @@
 # CTF Challenges
  * This repository contains all CTF challenges I've created that are no longer live. I'll try to update it consistently with my latest work.
  * Every challenge has been sorted and contains the original files and README.md
+ * Some descriptions may not make sense story wise as they were meeting specific. But they should still be solvable. Ive tried to specify if a challenge is no longer working.
  * For challenges I've personally completed, check out my TryHackMe account. Unfortunately, I didn't create this repository early enough to include challenges I completed before becoming an EBoard member for the NEU CTF Club. https://tryhackme.com/p/RowansBoat
  * There is also a writeup folder detailing how some of these challenges are made.
- * Also toying with the idea of filming my TryHackMe solves. Mainly to just document my thought process and to keep me accountable to atleast do one challenge per day.
 
 ## Categories
 
