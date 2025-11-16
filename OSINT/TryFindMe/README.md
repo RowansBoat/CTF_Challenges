@@ -8,15 +8,10 @@ TryFindMe
 You may remember we had you find one our Challenge Architects profiles as a entrance slip. Now can you find his TryHackMe account?
 ```
 
-
 ### Difficulty
 
 Medium
 
-
-### Kind
-
-OSINT
 
 ### NOTE
 
