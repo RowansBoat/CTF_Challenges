@@ -13,10 +13,6 @@ Flag format CTF{+##-###-###-###}
 
 Medium / Hard
 
-### Kind
-
-OSINT
-
 ### Flag
 <details>`CTF{+84-941-991-239}`</details>
 
