@@ -12,16 +12,6 @@ During the collapse, someone embedded hidden data somewhere in the official NEU 
 
 Hard
 
-
-### Kind
-
-Forensics
-
-
-### Author
-
-Rowan
-
 ### Flag
 <details>`CTF{@_p0st_meltd0wn_@rtif@ct}`</details>
 
