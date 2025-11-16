@@ -1,0 +1,10 @@
+=== LEGACY SYSTEM BACKUP ===
+Date: 2003-08-15
+System: MySQL 3.23.x Authentication Database
+
+[ADMIN CREDENTIALS]
+Username: admin
+Password: *FFD3498E20493D8F9D37B4FDD0C12DB9F2BECD46
+
+Note: Using MySQL PASSWORD() function for enhanced security.
+Do NOT share this backup file!
