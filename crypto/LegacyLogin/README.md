@@ -12,10 +12,6 @@ You've discovered an old backup of a corporate authentication database from a le
 
 Easy
 
-### Kind
-
-Misc
-
 ### Flag
 <details>`CTF{Chern0byl}`</details>
 
