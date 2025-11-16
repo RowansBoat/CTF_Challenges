@@ -15,17 +15,6 @@ Flag Format : Put the decoded gesture.key inside CTF{}
 
 Easy
 
-
-### Kind
-
-Misc
-
-
-### Author
-
-Rowan
-
-
 ### Notes
 
 Pyhton script gesturemaker.py creates the required file and was not given to users.
