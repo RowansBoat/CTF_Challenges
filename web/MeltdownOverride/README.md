@@ -12,6 +12,8 @@ Nuclear reactor core temperature critical! The lead engineer's password has been
 
 Easy
 
+## Note
+Obviously we hosted this ourselves. This can be run locally pretty easily though.
 
 ### Kind
 
