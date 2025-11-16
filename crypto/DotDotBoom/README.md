@@ -16,8 +16,8 @@ Easy
 
 Cryptography
 
-### The flag and Solution
-<details>
-1. Go https://www.dcode.fr/dotsies-writing and manually input the screenshot into the decode box
-  
-`CTF{REDUCEDTODOTS}`
+### Flag
+<details>`CTF{REDUCEDTODOTS}`</details>
+
+### Solution
+<details>1. Go https://www.dcode.fr/dotsies-writing and manually input the screenshot into the decode box</details>
