@@ -8,20 +8,17 @@ Dot Dot Boom
 During the meltdown, a message got reduced to nothing but tiny dots. It looks like morse code but it definitely is not. Can you help me decipher it?
 ```
 
-
 ### Difficulty
 
 Easy
-
 
 ### Kind
 
 Cryptography
 
-### How to solve
-
+### The flag and Solution
 1. Go https://www.dcode.fr/dotsies-writing and manually input the screenshot into the decode box
 
-### The flag
+
 <details>
 `CTF{REDUCEDTODOTS}`
