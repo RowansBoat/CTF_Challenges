@@ -17,10 +17,11 @@ Medium / Hard
 
 OSINT
 
-### The flag and solution
+### Flag
+<details>`CTF{+84-941-991-239}`</details>
+
+### Solution
 <details>
 1. Realize that || ||| sptmbr on the pillow is actually 23 sptmbr
 2. Lookup the store on google which should have their number on google maps
-3. The one on their website is not the one I am looking for since it has local area code not international
-
-`CTF{+84-941-991-239}`
+3. The one on their website is not the one I am looking for since it has local area code not international</details>
