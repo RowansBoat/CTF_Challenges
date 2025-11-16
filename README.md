@@ -8,7 +8,7 @@
 
 - **OSINT**
   - **Try Find Me** - 
-  - **Cat-astrophic Meltdown** - 
+  - **Cat-astrophic Meltdown** - Simple OSINT where given an image find something irl from the given image
 - **Crypto**
   - **Legacy Login** -
   - **MeltCraft** -
