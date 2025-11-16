@@ -16,10 +16,6 @@ Medium
 
 Forensics
 
-### Build instructions
-
-Run browser-history-ctf.py to create the simulated browsing history database
-
 ### The Flag
 <details>`CTF{Br0ws1ng_H1st0ry_T3lls_All}`</details>
 
