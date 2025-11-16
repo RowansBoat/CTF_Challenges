@@ -12,10 +12,6 @@ During the meltdown, a message got reduced to nothing but tiny dots. It looks li
 
 Easy
 
-### Kind
-
-Cryptography
-
 ### Flag
 <details>`CTF{REDUCEDTODOTS}`</details>
 
