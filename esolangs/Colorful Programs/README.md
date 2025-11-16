@@ -9,7 +9,7 @@ Looks like we didn’t clean up after the party and someone found a program just
 ```
 
 ### Difficulty
-Medium
+Easy / Medium
 
 ### Kind
 
