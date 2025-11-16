@@ -11,7 +11,7 @@
   - **Cat-astrophic Meltdown** - Simple OSINT where given an image find something irl from the given image
 - **Crypto**
   - **Legacy Login** - Challenge based off solved MySql password hashing
-  - **MeltCraft** - Based off a recent minecraft arg from the youtuber Wifies
+  - **MeltCraft** - Based off a recent cipher used in a minecraft arg from the youtuber Wifies
   - **Zipped Basket** -
   - **Packet Protocol** -
   - **Dot Dot Boom** - Simple challenge where users have to decrypt an image but do not know the method of encryption
@@ -29,7 +29,7 @@
   - **Fallout Fragment** - Based off my writeup of doing lsb on a github pfp
   - **Radiant Sorcery** - Hiding a flag through Magic Eye
 - **Misc**
-  - **Operator's Lock** -
+  - **Operator's Lock** - Cracking android gesture password
   - **To the core** -
   - **Firebase Fumble** -
   - **Hidden Afterparty** -
