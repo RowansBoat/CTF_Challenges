@@ -7,27 +7,28 @@
 ## Categories
 
 - **OSINT**
-  - **Try Find Me** - 
+  - **TryFindMe** - OSINT based off finding my tryhackme account
   - **Cat-astrophic Meltdown** - Simple OSINT where given an image find something irl from the given image
 - **Crypto**
-  - **Legacy Login** -
-  - **MeltCraft** -
+  - **Legacy Login** - Challenge based off solved MySql password hashing
+  - **MeltCraft** - Based off a recent minecraft arg from the youtuber Wifies
   - **Zipped Basket** -
   - **Packet Protocol** -
+  - **Dot Dot Boom** - Simple challenge where users have to decrypt an image but do not know the method of encryption
 - **Esolangs**
   - **Music Class** -
   - **Colorful Programs** -
 - **Forensics**
-  - **Fallout Fragment** -
-  - **Hidden In Plain Site** -
-  - **Radiant Sorcery** -
+  - **Hidden In Plain Site** - Simple find the obfuscated data in a file
   - **Lost and now we found** -
   - **Whats in the applecore** -
   - **Eyes Of The Shadows** -
   - **The Hum** -
   - **Wake Protocol** -
+- **Steganography**
+  - **Fallout Fragment** - Based off my writeup of doing lsb on a github pfp
+  - **Radiant Sorcery** - Hiding a flag through Magic Eye
 - **Misc**
-  - **Dot Dot Boom** - Simple challenge where users have to decrypt an image but do not know the meethod
   - **Operator's Lock** -
   - **To the core** -
   - **Firebase Fumble** -
