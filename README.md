@@ -27,7 +27,7 @@
   - **The Hum** -
   - **Wake Protocol** -
 - **Misc**
-  - **Dot Dot Boom** -
+  - **Dot Dot Boom** - Simple challenge where users have to decrypt an image but do not know the meethod
   - **Operator's Lock** -
   - **To the core** -
   - **Firebase Fumble** -
