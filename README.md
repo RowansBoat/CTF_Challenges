@@ -12,16 +12,15 @@
 - **Crypto**
   - **Legacy Login** - Challenge based off solved MySql password hashing
   - **MeltCraft** - Based off a recent cipher used in a minecraft arg from the youtuber Wifies
-  - **Zipped Basket** -
   - **Packet Protocol** -
   - **Dot Dot Boom** - Simple challenge where users have to decrypt an image but do not know the method of encryption
 - **Esolangs**
-  - **Music Class** -
+  - **Music Class** - Back off the rockstar programming language
   - **Colorful Programs** -
 - **Forensics**
   - **Hidden In Plain Site** - Simple find the obfuscated data in a file
-  - **Lost and now we found** -
-  - **Whats in the applecore** -
+  - **Lost and now we found** - Very simple finding a string hidden in a file
+  - **Whats in the applecore** - Hiding data in the spectrogram of a video
   - **Eyes Of The Shadows** -
   - **The Hum** -
   - **Wake Protocol** -
@@ -30,9 +29,10 @@
   - **Radiant Sorcery** - Hiding a flag through Magic Eye
 - **Misc**
   - **Operator's Lock** - Cracking android gesture password
-  - **To the core** -
+  - **To the core** - Very easy decode you just have to decode correctly twice
   - **Firebase Fumble** -
   - **Hidden Afterparty** -
+  - **Zipped Basket** -
 - **Pwn**
   - **Ghostly Entry** -
 - **Web**
