@@ -12,10 +12,6 @@ We extracted the browsing history from a lead engineer's workstation right befor
 
 Medium
 
-### Kind
-
-Forensics
-
 ### Notes
 The python script was used to create the challenge and was not given to users
 
