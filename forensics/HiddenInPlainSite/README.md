@@ -16,6 +16,9 @@ Medium
 
 Forensics
 
+### Notes
+The python script was used to create the challenge and was not given to users
+
 ### The Flag
 <details>`CTF{Br0ws1ng_H1st0ry_T3lls_All}`</details>
 
