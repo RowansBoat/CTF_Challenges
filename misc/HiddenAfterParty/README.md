@@ -1,12 +1,13 @@
 
 ### Name
 
-Colorful Programs
+Hidden Afterparty
 
 ### Description
 
 ```
-Looks like we didn’t clean up after the party and someone found a program just lying on the ground.
+Looks like you weren't invited to the true afterparty. There's a locked photo album but only people who went have access to it. Can you crack it open and figure out which club they went to?
+Flag format : CTF{} and Replace any space with "_"
 ```
 
 ### Difficulty
@@ -17,7 +18,7 @@ Medium
 Misc.
 
 ### Solution
-<details>This image uses the Piet coding language to run a program through the image itself. Simply go to https://www.bertnase.de/npiet/npiet-execute.php. And Upload the image and execute the program to get the flag.I don’t know how but could also be executed through npiet on wsl. </details>
-
+<details> Use a zip cracker tool to break the password on the zip file (named "AfterPartyPhotos.zip"). The password is “boil”. Extract the image from the zip file. Use a steganography tool (https://stylesuxx.github.io/steganography/) to extract hidden morse code from the image. Translate the morse code you get from the website when decoded to get coordinates. Navigate to the coordinates on google maps which points to a club which is the flag.
+</details>
 ### The flag
-<details>CTF{B1G_P1ET}</details>
+<details>CTF{TANTRA_TOKYO}</details>
