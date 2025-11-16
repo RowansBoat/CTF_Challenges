@@ -17,12 +17,10 @@ Medium / Hard
 
 OSINT
 
-### How to solve
-
+### The flag and solution
+<details>
 1. Realize that || ||| sptmbr on the pillow is actually 23 sptmbr
 2. Lookup the store on google which should have their number on google maps
 3. The one on their website is not the one I am looking for since it has local area code not international
 
-### The flag
-<details>
 `CTF{+84-941-991-239}`
