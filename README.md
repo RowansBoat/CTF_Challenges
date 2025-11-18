@@ -31,7 +31,7 @@
 - **Misc**
   - **🟢Operator's Lock** - Cracking android gesture password
   - **🟢To the core** - Very easy decode you just have to decode correctly twice
-  - **🟢Firebase Fumble** - Investigating a a firebase with bad rules
+  - **🟢Firebase Fumble** - Investigating a firebase with bad rules
   - **🟢Zipped Basket** - Cracking the password to a zip folder
   - **🟡Hidden Afterparty** - Cracking zip folder + OSINT
 - **Pwn**
