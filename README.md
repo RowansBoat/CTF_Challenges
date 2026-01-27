@@ -22,6 +22,8 @@
   - **🟢Lost and now we found** - Very simple finding a string hidden in a file
   - **🟢The Hum** - While you may think this is an audio problem its actually metadata
   - **🟢Wake Protocol** - Simple binary decode
+  - **🟢PartialRecovery** - Metadata challenge
+  - **🟡Embedded Logs** - Searching logs then deciphering
   - **🟡Hidden In Plain Site** - Simple find the obfuscated data in a file
   - **🔴Whats in the applecore** - Hiding data in the spectrogram of a video
   - **🔴Eyes Of The Shadows** - A harder version of my hidden height write up
