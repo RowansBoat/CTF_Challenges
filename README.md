@@ -8,6 +8,7 @@
 ## Categories
 
 - **OSINT**
+  - **🟢Vunerable Lego** - CVE lookup
   - **🟡TryFindMe** - OSINT based off finding my tryhackme account
   - **🟡/🔴Cat-astrophic Meltdown** - Simple OSINT where given an image find something irl from the given image
 - **Crypto**
@@ -27,6 +28,7 @@
   - **🟡Hidden In Plain Site** - Simple find the obfuscated data in a file
   - **🔴Whats in the applecore** - Hiding data in the spectrogram of a video
   - **🔴Eyes Of The Shadows** - A harder version of my hidden height write up
+  - **🔴Brick Smuggler** - Wireshark challenge
 - **Steganography**
   - **🟡Radiant Sorcery** - Hiding a flag through Magic Eye
   - **🔴Fallout Fragment** - Based off my writeup of doing lsb on a github pfp
