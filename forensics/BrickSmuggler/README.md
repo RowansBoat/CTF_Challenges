@@ -27,6 +27,7 @@ Rowan
 <details>
 `CTF{tunnel_made_of_bricks}`
 </details>
+
 ### How to solve
 <details>
 1. Open File in Wireshark
@@ -44,6 +45,4 @@ Rowan
 13. Translate data on cyberchef to binary. From Hex + To Binary
 14. Go to Dcode and solve the XOR cipher.
 15. Text to XOR'd step 13 with ASCII Key as LEGO then Decrypt
-</details>
-
-### Special notes
+</details
