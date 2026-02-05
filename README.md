@@ -42,3 +42,7 @@
   - **🟢Ghostly Entry** - Cracking a simple password through clues or brute force
 - **Web**
   - **🟢Meltdown Override** - Simple SQL injection challenge
+- **Writeups**
+  - **JPEG with hidden height** - How to make a jpeg with data hidden by hiding the true height of the image
+  - **Githubpfp** - How to do lsb on a github profile picture
+  - **Zlibstream on a PDF** - Hiding data in a pdf via zlibstream
