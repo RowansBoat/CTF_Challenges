@@ -8,7 +8,7 @@
 ## Categories
 
 - **OSINT**
-  - **🟢Vunerable Lego** - CVE lookup
+  - **🟢Vulnerable Lego** - CVE lookup
   - **🟡TryFindMe** - OSINT based off finding my tryhackme account
   - **🟡/🔴Cat-astrophic Meltdown** - Simple OSINT where given an image find something irl from the given image
 - **Crypto**
