@@ -26,6 +26,7 @@
   - **🟢PartialRecovery** - Metadata challenge
   - **🟡Embedded Logs** - Searching logs then deciphering
   - **🟡Hidden In Plain Site** - Simple find the obfuscated data in a file
+  - **🟡Galloping Secrets** - Multi part stegnagraphy and almost osint like challenge
   - **🔴Whats in the applecore** - Hiding data in the spectrogram of a video
   - **🔴Eyes Of The Shadows** - A harder version of my hidden height write up
   - **🔴Brick Smuggler** - Wireshark challenge
@@ -42,6 +43,7 @@
   - **🟢Ghostly Entry** - Cracking a simple password through clues or brute force
 - **Web**
   - **🟢Meltdown Override** - Simple SQL injection challenge
+  - **🟢Horsey** - Simple web path challenge
 - **Writeups**
   - **JPEG with hidden height** - How to make a jpeg with data hidden by hiding the true height of the image
   - **Githubpfp** - How to do lsb on a github profile picture
