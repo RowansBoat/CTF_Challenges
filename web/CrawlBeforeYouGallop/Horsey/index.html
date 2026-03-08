@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Lucky Hongbao — Year of the Horse</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: #8B0000;
+      font-family: 'Georgia', serif;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .container {
+      text-align: center;
+      padding: 20px;
+    }
+
+    h1 {
+      color: #FFD700;
+      font-size: 2rem;
+      margin-bottom: 6px;
+      letter-spacing: 1px;
+    }
+
+    .subtitle {
+      color: #FFECB3;
+      font-size: 0.95rem;
+      margin-bottom: 36px;
+    }
+
+    .envelope {
+      width: 190px;
+      height: 250px;
+      margin: 0 auto 28px;
+    }
+
+    .env-body {
+      width: 100%;
+      height: 100%;
+      background: #cc1111;
+      border-radius: 6px;
+      border: 3px solid #FFD700;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 3px 4px 0px rgba(0,0,0,0.35);
+    }
+
+    .env-diamond {
+      width: 72px; height: 72px;
+      background: #FFD700;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2rem;
+      margin-bottom: 12px;
+      box-shadow: inset 0 0 0 3px #c8a800;
+    }
+
+    .env-text {
+      color: #FFD700;
+      font-size: 1.6rem;
+      font-weight: bold;
+      letter-spacing: 2px;
+    }
+
+    .claim-box {
+      background: #7a0000;
+      border: 2px solid #FFD700;
+      border-radius: 4px;
+      padding: 24px 28px;
+      width: 320px;
+      margin: 0 auto;
+    }
+
+    .claim-box p {
+      color: #FFECB3;
+      margin-bottom: 14px;
+      font-size: 0.9rem;
+      line-height: 1.5;
+    }
+
+    input[type="text"] {
+      width: 100%;
+      padding: 9px 12px;
+      border-radius: 3px;
+      border: 1px solid #FFD700;
+      background: #600000;
+      color: #fff;
+      font-size: 0.95rem;
+      margin-bottom: 10px;
+      outline: none;
+    }
+    input[type="text"]::placeholder { color: rgba(255,255,255,0.35); }
+
+    button {
+      width: 100%;
+      padding: 10px;
+      background: #FFD700;
+      color: #6b0000;
+      border: none;
+      border-radius: 3px;
+      font-size: 0.95rem;
+      font-weight: bold;
+      cursor: pointer;
+      font-family: 'Georgia', serif;
+    }
+    button:hover { background: #e6c200; }
+
+    .msg {
+      margin-top: 12px;
+      color: #FFECB3;
+      font-size: 0.88rem;
+      min-height: 20px;
+    }
+
+    footer {
+      margin-top: 36px;
+      color: rgba(255,236,179,0.4);
+      font-size: 0.72rem;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>Lucky Hongbao</h1>
+  <p class="subtitle">Claim your red envelope</p>
+
+  <div class="envelope">
+    <div class="env-body">
+      <div class="env-diamond">
+        <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="18" cy="18" r="14" fill="#8B0000"/>
+        </svg>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="claim-box">
+    <p>Enter your name to claim your lucky red envelope for the Year of the Horse.</p>
+    <input type="text" id="nameInput" placeholder="Your name..." />
+    <button onclick="claim()">Claim My Envelope</button>
+    <div class="msg" id="msg"></div>
+  </div>
+</div>
+
+
+
+<script>
+  function claim() {
+    const name = document.getElementById('nameInput').value.trim();
+    const msg = document.getElementById('msg');
+    if (!name) { msg.textContent = 'Please enter your name first.'; return; }
+    msg.innerHTML = `Gong Xi Fa Cai, <strong style="color:#FFD700">${name}</strong>! Your envelope is on its way.`;
+  }
+</script>
+
+</body>
+</html>

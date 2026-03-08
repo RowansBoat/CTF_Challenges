@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin
+Disallow: /internal
+Disallow: /api/envelopes
+
+# Flag: CTF{wait_your_not_a_horse}
