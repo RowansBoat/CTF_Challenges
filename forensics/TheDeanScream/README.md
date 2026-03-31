@@ -17,7 +17,7 @@ Medium
 
 Forensics
 
-### The flag
+### Flag
 <details>
 `CTF{Wh@T_N0T_to_D0}`
 </details>
