@@ -24,9 +24,11 @@
   - **🟢The Hum** - While you may think this is an audio problem its actually metadata
   - **🟢Wake Protocol** - Simple binary decode
   - **🟢PartialRecovery** - Metadata challenge
+  - **🟢Readaction** - Looking for data in a pdf with terrible redaction
   - **🟡Embedded Logs** - Searching logs then deciphering
   - **🟡Hidden In Plain Site** - Simple find the obfuscated data in a file
   - **🟡Galloping Secrets** - Multi part stegnagraphy and almost osint like challenge
+  - **🟡The Dean Scream** - Doing lsb on a singular frame of a video 
   - **🔴Whats in the applecore** - Hiding data in the spectrogram of a video
   - **🔴Eyes Of The Shadows** - A harder version of my hidden height write up
   - **🔴Brick Smuggler** - Wireshark challenge
