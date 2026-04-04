@@ -13,7 +13,7 @@ Flag format: CTF{XXXX}
 
 Medium
 
-### Flag
+### Flag 
 <details>`CTF{2035}`</details>
 
 ### Solution
