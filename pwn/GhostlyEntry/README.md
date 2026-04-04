@@ -8,7 +8,7 @@ Ghostly Entry
 A cyborg stands before you. She wont let you pass but she does want a PASSWORD. Can you figure out the password so that this cyber-enhanced human soldier wants?
 ```
 
-### Difficulty
+### Difficulty 
 
 Warmup
 
