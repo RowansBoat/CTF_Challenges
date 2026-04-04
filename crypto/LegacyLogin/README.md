@@ -9,7 +9,7 @@ You've discovered an old backup of a corporate authentication database from a le
 ```
 
 ### Difficulty
-
+ 
 Easy
 
 ### Flag
