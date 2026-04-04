@@ -6,7 +6,7 @@ Fallout Fragments
 
 ```
 During the collapse, someone embedded hidden data somewhere in the official NEU CTF GitHub group. Track down the hidden data and report back!
-```
+``` 
 
 ### Difficulty
 
