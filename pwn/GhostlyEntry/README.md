@@ -12,7 +12,7 @@ A cyborg stands before you. She wont let you pass but she does want a PASSWORD. 
 
 Warmup
 
-### The flag
+### The flag 
 <details>
 `CTF{shellofahouse}`
 </details>
