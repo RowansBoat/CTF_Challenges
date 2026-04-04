@@ -4,7 +4,7 @@ Dot Dot Boom
 
 ### Description
 
-```
+``` 
 During the meltdown, a message got reduced to nothing but tiny dots. It looks like morse code but it definitely is not. Can you help me decipher it?
 ```
 
