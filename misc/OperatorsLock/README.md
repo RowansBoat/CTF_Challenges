@@ -5,7 +5,7 @@ Operators Lock
 
 ### Description
 
-```
+``` 
 You decided to investigate further into what caused this meltdown. In all the destruction you managed to find an android phone used by one of the engineers. The device is locked with a pattern, but you successfully extracted the gesture.key file. All you need to do now is decode it.
 Flag Format : Put the decoded gesture.key inside CTF{}
 ```
